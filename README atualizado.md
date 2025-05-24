@@ -33,7 +33,7 @@ Estou em constante evolução, buscando excelência técnica e visão estratégi
 - **Infraestrutura como Código (IaC):** Terraform, Ansible, Vagrant  
 - **CI/CD:** GitHub Actions, GitLab CI, Jenkins  
 - **Segurança/DevSecOps:** Trivy, SonarQube, HashiCorp Vault  
-- **Observabilidade (futuro):** Prometheus, Grafana  
+- **Observabilidade:** Prometheus, Grafana  
 - **Outros:** Linux, Git, Bash, VS Code
 
 ---
@@ -59,17 +59,22 @@ Estou em constante evolução, buscando excelência técnica e visão estratégi
 - [ ] AWS Cloud Practitioner (CLF-C02)
 - [ ] Microsoft Azure Fundamentals (AZ-900)
 - [ ] Terraform para IaC
-- [ ] Vagrant 
+- [ ] Vagrant (opcional)
 
 ### Fase 5 – DevSecOps
 - [ ] Trivy – Scanner de vulnerabilidades
 - [ ] SonarQube – Análise de código estático
 - [ ] HashiCorp Vault – Gestão de segredos
+- [ ] Jenkins – Integração e entrega contínua (CI/CD)
 
 ### Fase 6 – Projetos e Validação Profissional
 - [ ] Projetos práticos com CI/CD, Docker, Terraform e segurança
-- [ ] Preparação para LPIC-1 ou CompTIA Linux+ 
+- [ ] Preparação para LPIC-1 ou CompTIA Linux+ (opcional)
 - [ ] Contribuições públicas em repositórios técnicos
+
+### Fase 7 – Observabilidade (em breve)
+- [ ] Prometheus – Coleta de métricas e monitoramento
+- [ ] Grafana – Visualização de dados e dashboards
 
 ---
 
@@ -98,7 +103,7 @@ Este repositório é o meu ponto de partida. Aqui você vai encontrar:
 
 Atualmente servidor público concursado no Exército Brasileiro, desenvolvi uma base sólida de disciplina, foco e ética profissional — fundamentos que trago para minha atuação em tecnologia.
 
-Sou graduando em Redes de Computadores, com ênfase em infraestrutura, redes seguras e ambientes em nuvem.
+Sou graduando em Redes de Computadores pela Estácio, com ênfase em infraestrutura, redes seguras e ambientes em nuvem.
 
 Como servidor público estável, tenho liberdade para buscar oportunidades voluntárias ou não-remuneradas na área de tecnologia. Meu foco é ganhar experiência real, contribuir com valor e evoluir na prática. A cada projeto, busco aprendizado consistente e entrega com responsabilidade.
 

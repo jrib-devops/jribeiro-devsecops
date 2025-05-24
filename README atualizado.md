@@ -20,17 +20,31 @@ Estou em constante evolução, buscando excelência técnica e visão estratégi
 - Em preparação:
   - AWS Certified Cloud Practitioner (CLF-C02)
   - Microsoft Azure Fundamentals (AZ-900)
-  - Docker, Kubernetes & Terraform
+  - Docker & Kubernetes
+  - Terraform Associate (HashiCorp)
+  - LPIC-1 ou CompTIA Linux+
 
 ---
 
-## Tecnologias em foco
+## Tecnologias e Ferramentas
 
-- **Cloud:** AWS, Azure, OCI  
-- **Containers & Orquestração:** Docker, Kubernetes (K8s)  
-- **Infraestrutura como Código (IaC):** Terraform, Ansible  
-- **CI/CD:** GitHub Actions, Jenkins  
-- **Outros:** Linux, Git, Shell Script
+- **Cloud:** AWS, Azure, Oracle Cloud (OCI)  
+- **Containers & Orquestração:** Docker, Kubernetes (K8s), Helm  
+- **Infraestrutura como Código (IaC):** Terraform, Ansible, Vagrant  
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins  
+- **Segurança/DevSecOps:** Trivy, SonarQube, HashiCorp Vault  
+- **Observabilidade (futuro):** Prometheus, Grafana  
+- **Outros:** Linux, Git, Bash, VS Code
+
+---
+
+## Em breve
+
+- Projetos práticos aplicando DevSecOps com Trivy, SonarQube e Vault  
+- Pipelines CI/CD com GitHub Actions e Jenkins  
+- Ambientes automatizados com Ansible e Terraform  
+- Clusters Kubernetes com monitoramento via Prometheus e Grafana  
+- Preparação para certificações avançadas em Cloud e Segurança
 
 ---
 
@@ -45,18 +59,19 @@ Este repositório é o meu ponto de partida. Aqui você vai encontrar:
 
 ---
 
-## Repositórios em destaque (em breve)
+## Trajetória complementar
 
-- `terraform-lab` → Infraestrutura modular para múltiplos providers  
-- `k8s-labs` → Deploy e automação com Kubernetes em ambientes simulados  
-- `ci-cd-pipeline` → Pipeline DevSecOps com Trivy, SonarQube, GitHub Actions  
-- `cloud-hardening` → Boas práticas de segurança em nuvem (AWS, Azure, OCI)
+Atualmente servidor público concursado no Exército Brasileiro, desenvolvi uma base sólida de disciplina, foco e ética profissional — fundamentos que trago para minha atuação em tecnologia.
+
+Sou graduando em Redes de Computadores, com ênfase em infraestrutura, redes seguras e ambientes em nuvem.
+
+Como servidor público estável, tenho liberdade para buscar oportunidades voluntárias ou não-remuneradas na área de tecnologia. Meu foco é ganhar experiência real, contribuir com valor e evoluir na prática. A cada projeto, busco aprendizado consistente e entrega com responsabilidade.
 
 ---
 
 ## Vamos nos conectar?
 
-- **LinkedIn:** [linkedin.com/in/joaoribeiro](https://linkedin.com/in/joaoribeiro)  
+- **LinkedIn:** [linkedin.com/in/joão-ribeiro-37156a361](https://www.linkedin.com/in/jo%C3%A3o-ribeiro-37156a361)  
 - **E-mail:** jribeiro.devops@gmail.com
 
 ---
